@@ -5,7 +5,7 @@
 - C | C++ | Java | HTML & CSS
 - DSA | OS | Arduino-Embedded
 - ⚽Football
-- 😐Yes I'm Introvert | 🪔Culturly bounded 
+<!--- 😐Yes I'm Introvert | 🪔Culturly bounded--> 
 
 <!--- 👀 I’m interested in Programming, Web Development, Embedded Programming, AI
 - 🌱 I’m currently learning C++, Ethical Hacking, sql,python, DSA, 
