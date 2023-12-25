@@ -2,7 +2,7 @@
 - 💻B.tech(CSE) at Sardar Beant Singh State University🏫 
      <!--- it's 4am 👀-->
 - 🐾Student | 👨‍💻Developer | ⚙️Engineer | 🎧Yotuber
-- C | C++ | Java | HTML & CSS
+- C | C++ | Java | Python
 - DSA | OS | Arduino-Embedded
 - ⚽Football
 <!--- 😐Yes I'm Introvert | 🪔Culturly bounded--> 
