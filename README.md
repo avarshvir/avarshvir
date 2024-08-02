@@ -3,7 +3,8 @@
      <!--- it's 4am 👀-->
 - 🐾Student | 👨‍💻Developer | ⚙️Engineer | 🎧Yotuber
 - C | C++ | Java | Python
-- DSA | OS | Arduino-Embedded
+- DSA | Machine Learning | AI
+- CN | OS | Arduino-Embedded
 <!--- ⚽Football-->
 <!--- 😐Yes I'm Introvert | 🪔Culturly bounded--> 
 
