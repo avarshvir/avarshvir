@@ -6,14 +6,12 @@
 
 ## 💻 Tech Stack & Skills
 
-<table>
+<!-- Gradient dark themed table -->
+<table align="center">
   <tr>
-    <td><b>Programming Languages</b></td>
-    <td><b>Web Development</b></td>
-    <td><b>Machine Learning & AI</b></td>
-  </tr>
-  <tr>
-    <td>
+    <td style="background: #1e1e1e; padding: 10px; border-radius: 8px; color: white; text-align: center;">
+      <b>Programming Languages</b>
+      <br><br>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -23,7 +21,9 @@
       <img src="https://img.shields.io/badge/EmbeddedC-00599C?style=for-the-badge" />
       <img src="https://img.shields.io/badge/ArduinoC-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
     </td>
-    <td>
+    <td style="background: #2d2d2d; padding: 10px; border-radius: 8px; color: white; text-align: center;">
+      <b>Web Development</b>
+      <br><br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -31,7 +31,9 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     </td>
-    <td>
+    <td style="background: #3c3c3c; padding: 10px; border-radius: 8px; color: white; text-align: center;">
+      <b>Machine Learning & AI</b>
+      <br><br>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -45,27 +47,28 @@
 
 ---
 
-<table>
+<table align="center">
   <tr>
-    <td><b>Database Management</b></td>
-    <td><b>Business Intelligence & Data Analytics</b></td>
-    <td><b>Software Engineering & Development</b></td>
-  </tr>
-  <tr>
-    <td>
+    <td style="background: #1e1e1e; padding: 10px; border-radius: 8px; color: white; text-align: center;">
+      <b>Database Management</b>
+      <br><br>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
       <img src="https://img.shields.io/badge/NoSQL-00599C?style=for-the-badge" />
       <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
     </td>
-    <td>
+    <td style="background: #2d2d2d; padding: 10px; border-radius: 8px; color: white; text-align: center;">
+      <b>Business Intelligence & Data Analytics</b>
+      <br><br>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
       <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
       <img src="https://img.shields.io/badge/Data_Visualization-00599C?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Data_Analytics-00599C?style=for-the-badge" />
     </td>
-    <td>
+    <td style="background: #3c3c3c; padding: 10px; border-radius: 8px; color: white; text-align: center;">
+      <b>Software Engineering & Development</b>
+      <br><br>
       <img src="https://img.shields.io/badge/Software%20Engineering-31A8FF?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Software%20Development-31A8FF?style=for-the-badge" />
     </td>
