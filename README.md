@@ -114,3 +114,7 @@
 <p align="left">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+---
+
+<p align="center">Total Profile Views: <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square"></p>
