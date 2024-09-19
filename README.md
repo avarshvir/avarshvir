@@ -2,7 +2,9 @@
 - 💻 **B.Tech (CSE)** at **Sardar Beant Singh State University** 🏫
 - 🐾 **Student | Developer | Engineer | YouTuber** 🎧
 
----
+- 
+
+<!-----
 
 ## 💻 Tech Stack & Skills
 
@@ -107,3 +109,4 @@
 ---
 
 <p align="center">Total Profile Views: <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat&color=grey" alt="Profile Views" /></p>
+-->
