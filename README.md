@@ -1,9 +1,12 @@
 # 👋 Hi, I’m Arshvir 👻
 - **💻B.Tech (CSE)** at **Sardar Beant Singh State University 🏫** 
-- **🐾Student | 🧑🏻‍💻Developer | ⚙️Engineer | 🎧YouTuber** 
-- **C | C++ | Java | Python**
+- **🐾Student | 🧑🏻‍💻Developer | ⚙️Engineer | 🎧YouTuber**
+- - **AI | ML | DL | Pandas | Numpy | Scikit-Learn | PyTorch | TensorFlow** 
+- **Programming Languages :** C | C++ | Java | Python
+- **Web Development :** HTML | CSS | JS | REACT | BootStrap | PHP
 - **DSA | OS | CN | Arduino-Embedded**
-- **AI | ML**
+
+- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <!-----
 
 ## 💻 Tech Stack & Skills
