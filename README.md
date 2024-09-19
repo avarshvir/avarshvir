@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Arshvir 👻
 - **💻B.Tech (CSE)** at **Sardar Beant Singh State University 🏫** 
 - **🐾Student | 🧑🏻‍💻Developer | ⚙️Engineer | 🎧YouTuber**
-- - **AI | ML | DL | Pandas | Numpy | Scikit-Learn | PyTorch | TensorFlow | OpenCV** 
+- **AI | ML | DL | Pandas | Numpy | Scikit-Learn | PyTorch | TensorFlow | OpenCV** 
 - **Programming Languages :** C | C++ | Java | Python
 - **Web Development :** HTML | CSS | JS | REACT | BootStrap | PHP
 - **DataBase :** DBMS | MySQL | NoSQL
