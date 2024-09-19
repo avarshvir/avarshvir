@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Arshvir 👻
-- 💻 **B.Tech (CSE)** at **Sardar Beant Singh State University** 🏫
-- 🐾 **Student | Developer | Engineer | YouTuber** 🎧
-
-- 
-
+- **💻B.Tech (CSE)** at **Sardar Beant Singh State University 🏫** 
+- **🐾Student | 🧑🏻‍💻Developer | ⚙️Engineer | 🎧YouTuber** 
+- **C | C++ | Java | Python**
+- **DSA | OS | CN | Arduino-Embedded**
+- **AI | ML**
 <!-----
 
 ## 💻 Tech Stack & Skills
