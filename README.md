@@ -1,14 +1,15 @@
 # 👋 Hi, I’m Arshvir 👻
 - **💻B.Tech (CSE)** at **Sardar Beant Singh State University 🏫** 
 - **🐾Student | 🧑🏻‍💻Developer | ⚙️Engineer | 🎧YouTuber**
-- **AI | ML | DL | Pandas | Numpy | Scikit-Learn | PyTorch | TensorFlow | OpenCV** 
-- **Programming Languages :** C | C++ | Java | Python
-- **Web Development :** HTML | CSS | JS | REACT | BootStrap | PHP
+- **Artificial Intelligence | Machine Learning | Computer Vision** 
+- **C | C++ | Java | Python**
+
+<!--- **Web Development :** HTML | CSS | JS | REACT | BootStrap | PHP
 - **DataBase :** DBMS | MySQL | NoSQL
 - **DSA | OS | CN**
 - **Electronics and IoT :** Arduino | Embedded System | IoT basics | Robotics(foundation)
 - **Tools and Softwares :** Git | GitHub | GitLab | Xampp | Virtual Machines | IDE's | Data Recovery Software | PowerBi | Tableau
-
+-->
 <!-----
 
 ## 💻 Tech Stack & Skills
