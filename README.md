@@ -31,22 +31,24 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avarshvir&show_icons=true&locale=en" alt="avarshvir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avarshvir&" alt="avarshvir" /></p>
+-->
+<hr>
+<h3 align="left">Top Projects: </h3>
+
+
+
+<h3 align="left">Badges:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avarshvir" alt="avarshvir" /></a> </p>
+
 # My Projects
 
-## Overview
-Here are some of the projects I am working on. Below you will find a list of my projects with descriptions and the technologies used.
+## Project Overview
 
-| Project Name            | Description                                                | Language/Technologies Used   |  
-|-------------------------|------------------------------------------------------------|------------------------------|  
-| **Visio AI**             | A major machine learning application that allows users to upload datasets, visualize them, and apply machine learning algorithms for prediction and analysis. | Python, Streamlit, scikit-learn, TensorFlow, PostgreSQL, Pandas |
-| **AI Chatbot System**    | A chatbot system designed to offer specialized assistance on topics like computer science, healthcare, and lifestyle. | Python, NLP (Natural Language Processing) |
-| **Project 3**            | A brief description of your third project.                | Languages/technologies used   |
-| **Project 4**            | A brief description of your fourth project.               | Languages/technologies used   |
-
-## How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
+| **Project**              | **Description**                                        |
+|--------------------------|--------------------------------------------------------|
+| **Visio AI**             | Machine learning and AI-powered app for predictive analytics. |
+| **Portfolio Website**    | My personal portfolio showcasing all my projects.     |
+| **AI Chatbot System**    | An AI-driven chatbot with specialized functionalities. |
 
 
 
