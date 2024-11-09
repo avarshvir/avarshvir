@@ -50,6 +50,15 @@
 | **Portfolio Website**    | My personal portfolio showcasing all my projects.     |
 | **AI Chatbot System**    | An AI-driven chatbot with specialized functionalities. |
 
+## Projects Overview
+
+| [Visio AI](#visio-ai) | [AI Chatbot System](#ai-chatbot-system) |
+| ---------------------- | ------------------------------- |
+| ![Visio AI](path_to_visio_ai_image.png) | ![AI Chatbot](path_to_ai_chatbot_image.png) |
+| Machine learning app for dataset visualization and prediction. | Chatbot tailored for different user needs and preferences. |
+
+---
+
 
 
 
