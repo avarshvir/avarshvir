@@ -39,8 +39,6 @@
 
 <h3 align="left">Badges:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avarshvir" alt="avarshvir" /></a> </p>
-
-<br>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -50,30 +48,85 @@
     <style>
         body {
             font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
             margin: 20px;
         }
-        table {
+        h2 {
+            margin-bottom: 20px;
+        }
+        .project-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+            max-width: 800px;
             width: 100%;
-            border-collapse: collapse;
         }
-        th, td {
-            padding: 10px;
-            text-align: left;
+        .project-card {
             border: 1px solid #ddd;
-        }
-        th {
-            background-color: #f4f4f4;
-        }
-        .project-row:hover {
+            border-radius: 8px;
+            padding: 15px;
             background-color: #f9f9f9;
+            transition: transform 0.2s;
+        }
+        .project-card:hover {
+            transform: scale(1.05);
             cursor: pointer;
         }
-        .project-details {
+        .project-title {
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .project-desc {
+            font-size: 14px;
+            color: #555;
+            margin-bottom: 10px;
+        }
+        .project-lang {
+            font-size: 12px;
+            color: #777;
+        }
+        /* Popup styling */
+        .popup {
             display: none;
-            margin-top: 20px;
-            padding: 15px;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 80%;
+            max-width: 400px;
+            background-color: #fff;
+            padding: 20px;
             border: 1px solid #ddd;
-            background-color: #f9f9f9;
+            border-radius: 8px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+            z-index: 10;
+        }
+        .popup h3 {
+            margin-top: 0;
+        }
+        .popup button {
+            margin-top: 15px;
+            padding: 8px 12px;
+            border: none;
+            background-color: #333;
+            color: #fff;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        /* Overlay to darken the background when popup is open */
+        .overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            z-index: 5;
         }
     </style>
 </head>
@@ -81,51 +134,55 @@
 
 <h2>My Projects</h2>
 
-<table>
-    <tr>
-        <th>Project Name</th>
-        <th>Description</th>
-        <th>Language Used</th>
-    </tr>
-    <tr class="project-row" onclick="showDetails('visio_ai')">
-        <td>Visio AI</td>
-        <td>Machine Learning application for dataset visualization and prediction.</td>
-        <td>Python, Streamlit</td>
-    </tr>
-    <tr class="project-row" onclick="showDetails('ai_chatbot')">
-        <td>AI Chatbot System</td>
-        <td>Chatbot application tailored for different user needs and preferences.</td>
-        <td>Python, NLP</td>
-    </tr>
-</table>
+<div class="project-grid">
+    <div class="project-card" onclick="showPopup('visio_ai')">
+        <div class="project-title">Visio AI</div>
+        <div class="project-desc">Machine Learning application for dataset visualization and prediction.</div>
+        <div class="project-lang">Python, Streamlit</div>
+    </div>
+    <div class="project-card" onclick="showPopup('ai_chatbot')">
+        <div class="project-title">AI Chatbot System</div>
+        <div class="project-desc">Chatbot application tailored for different user needs and preferences.</div>
+        <div class="project-lang">Python, NLP</div>
+    </div>
+    <!-- Add more projects as needed -->
+</div>
 
-<div id="visio_ai" class="project-details">
+<!-- Popup for project details -->
+<div id="popup-visio_ai" class="popup">
     <h3>Visio AI</h3>
     <p><strong>Description:</strong> A machine learning application that allows users to visualize datasets, manage missing data, and predict outcomes using various algorithms.</p>
     <p><strong>Language Used:</strong> Python, Streamlit, scikit-learn</p>
+    <button onclick="closePopup()">Close</button>
 </div>
 
-<div id="ai_chatbot" class="project-details">
+<div id="popup-ai_chatbot" class="popup">
     <h3>AI Chatbot System</h3>
     <p><strong>Description:</strong> A chatbot system offering different types of chatbots for specific topics, from lifestyle to technical support.</p>
     <p><strong>Language Used:</strong> Python, Natural Language Processing (NLP)</p>
+    <button onclick="closePopup()">Close</button>
 </div>
 
+<div id="overlay" class="overlay" onclick="closePopup()"></div>
+
 <script>
-    function showDetails(projectId) {
-        // Hide all project details
-        var details = document.querySelectorAll('.project-details');
-        details.forEach(function(detail) {
-            detail.style.display = 'none';
+    function showPopup(projectId) {
+        document.getElementById(`popup-${projectId}`).style.display = 'block';
+        document.getElementById('overlay').style.display = 'block';
+    }
+
+    function closePopup() {
+        var popups = document.querySelectorAll('.popup');
+        popups.forEach(function(popup) {
+            popup.style.display = 'none';
         });
-        
-        // Show the selected project details
-        document.getElementById(projectId).style.display = 'block';
+        document.getElementById('overlay').style.display = 'none';
     }
 </script>
 
 </body>
 </html>
+
 
 
 
