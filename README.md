@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arshvir</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avarshvir" alt="avarshvir" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/arshvir3972" target="blank"><img src="https://img.shields.io/twitter/follow/arshvir3972?logo=twitter&style=for-the-badge" alt="arshvir3972" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/arshvir3972" target="blank"><img src="https://img.shields.io/twitter/follow/arshvir3972?logo=twitter&style=for-the-badge" alt="arshvir3972" /></a> </p>-->
 
 - 💻 B.Tech (CSE) at **Sardar Beant Singh State University 🏫**
 
@@ -32,6 +31,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avarshvir&show_icons=true&locale=en" alt="avarshvir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avarshvir&" alt="avarshvir" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avarshvir" alt="avarshvir" /></a> </p>
 
 
 <!--# 👋 Hi, I’m Arshvir 👻
