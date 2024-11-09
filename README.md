@@ -39,14 +39,6 @@
 
 | **Project**              | **Description**                                        |
 |--------------------------|--------------------------------------------------------|
-| **Visio AI**             | Machine learning and AI-powered app for predictive analytics. |
-| **Portfolio Website**    | My personal portfolio showcasing all my projects.     |
-| **AI Chatbot System**    | An AI-driven chatbot with specialized functionalities. |
-| **Visio AI**             | Machine learning and AI-powered project for predictive, descriptive and visualization. |
-
-<h3 align="left">Top Projects and Repo: </h3>
-| **Project**              | **Description**                                        |
-|--------------------------|--------------------------------------------------------|
 | **Visio AI**             | Machine learning and AI-powered project for predictive, descriptive and visualization. |
 | **Dev Link**             | A Software for Developers and Users with wide range of interactive tools.     |
 | **Pharma A+**            | Pharmacy Management System based on RBAC model. |
@@ -57,7 +49,6 @@
 | **Python**               | My Python Journey from basics to advance such as fundamentals, Numpy, Pandas, MatplotLib, Open-CV, Sci-kit Learn, streamlit, SQLite and Networking.|
 | **DSA**                  | Data Structure and Algorithms implementation using C, C++, Java, and Python.|
 | **Machine Learning**     | My Machine Learning Journey.|
-
 
 
 
