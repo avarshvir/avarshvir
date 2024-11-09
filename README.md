@@ -33,6 +33,16 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avarshvir&" alt="avarshvir" /></p>
 -->
 <hr>
+# My Projects
+
+## Project Overview
+
+| **Project**              | **Description**                                        |
+|--------------------------|--------------------------------------------------------|
+| **Visio AI**             | Machine learning and AI-powered app for predictive analytics. |
+| **Portfolio Website**    | My personal portfolio showcasing all my projects.     |
+| **AI Chatbot System**    | An AI-driven chatbot with specialized functionalities. |
+
 <h3 align="left">Top Projects and Repo: </h3>
 | **Project**              | **Description**                                        |
 |--------------------------|--------------------------------------------------------|
