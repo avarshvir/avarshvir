@@ -55,7 +55,7 @@
 | **Java**                 | My Java Journey from basics to advance such as fundamentals, OOPs, Database, Swings, AWT, DSA, networking, and basic springboot |
 | **Python**               | My Python Journey from basics to advance such as fundamentals, Numpy, Pandas, MatplotLib, Open-CV, Sci-kit Learn, streamlit, SQLite and Networking.|
 | **DSA**                  | Data Structure and Algorithms implementation using C, C++, Java, and Python.|
-| **Machine Learning**     | My Machine Learning Journey.|-->
+| **Machine Learning**     | My Machine Learning Journey.|
 
 
 
