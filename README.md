@@ -33,31 +33,36 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avarshvir&" alt="avarshvir" /></p>
 -->
 <hr>
-<h3 align="left">Top Projects: </h3>
+<h3 align="left">Top Projects and Repo: </h3>
+| **Project**              | **Description**                                        |
+|--------------------------|--------------------------------------------------------|
+| **Visio AI**             | Machine learning and AI-powered project for predictive, descriptive and visualization. |
+| **Dev Link**    | A Software for Developers and Users with wide range of interactive tools.     |
+| **Pharma A+**    | Pharmacy Management System based on RBAC model. |
+| **Arduino Radar System**    | Ulra Sonic Radar System using arduino, electronics and sensors. |
+| **AI VIRSA**    | AI Personal Assistant – An intelligent, multifunctional system for seamless task execution. |
+| **C++**    | My C++ Journey from basics to advance such as fundamentals, OOPs, STL, Database, Networking, DSA, and basic graphics |
+| **Java**    | My Java Journey from basics to advance such as fundamentals, OOPs, Database, Swings, AWT, DSA, networking, and basic springboot |
+| **Python*    | My Python Journey from basics to advance such as fundamentals, Numpy, Pandas, MatplotLib, Open-CV, Sci-kit Learn, streamlit, SQLite and Networking.|
+| **DSA*    | Data Structure and Algorithms implementation using C, C++, Java, and Python.|
+| **Machine Learning Journey*    | My Machine Learning Journey.|
+
+
+
+
+
+
+
+
 
 
 
 <h3 align="left">Badges:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avarshvir" alt="avarshvir" /></a> </p>
 
-# My Projects
 
-## Project Overview
 
-| **Project**              | **Description**                                        |
-|--------------------------|--------------------------------------------------------|
-| **Visio AI**             | Machine learning and AI-powered app for predictive analytics. |
-| **Portfolio Website**    | My personal portfolio showcasing all my projects.     |
-| **AI Chatbot System**    | An AI-driven chatbot with specialized functionalities. |
 
-## Projects Overview
-
-| [Visio AI](#visio-ai) | [AI Chatbot System](#ai-chatbot-system) |
-| ---------------------- | ------------------------------- |
-| ![Visio AI](path_to_visio_ai_image.png) | ![AI Chatbot](path_to_ai_chatbot_image.png) |
-| Machine learning app for dataset visualization and prediction. | Chatbot tailored for different user needs and preferences. |
-
----
 
 
 
