@@ -33,14 +33,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avarshvir&" alt="avarshvir" /></p>
 -->
 
-<!--| **Project**              | **Description**                                        |
-|--------------------------|--------------------------------------------------------|-->
+| **Project**       | **Description**                                        |
+|--------------------------|-------------------------------------------------|
 | **Languages**     | C, C++, Java, Pyython, Arduino C. |
 <hr>
 <h3 align="left">Top Pojects and Repo:</h3>
 
-<!--| **Project**              | **Description**                                        |
-|--------------------------|--------------------------------------------------------|-->
+| **Project**              | **Description**                                        |
+|--------------------------|--------------------------------------------------------|
 | **Visio AI**             | Machine learning and AI-powered project for predictive, descriptive and visualization. |
 | **Dev Link**             | A Software for Developers and Users with wide range of interactive tools.     |
 | **Pharma A+**            | Pharmacy Management System based on RBAC model. |
