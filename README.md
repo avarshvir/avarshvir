@@ -33,10 +33,100 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avarshvir&" alt="avarshvir" /></p>
 -->
 <hr>
-<h3 align="left>Top Projects</h3>
+<h3 align="left">Top Projects: </h3>
+
+
 
 <h3 align="left">Badges:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avarshvir" alt="avarshvir" /></a> </p>
+
+<br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Projects</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        .project-row:hover {
+            background-color: #f9f9f9;
+            cursor: pointer;
+        }
+        .project-details {
+            display: none;
+            margin-top: 20px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+
+<h2>My Projects</h2>
+
+<table>
+    <tr>
+        <th>Project Name</th>
+        <th>Description</th>
+        <th>Language Used</th>
+    </tr>
+    <tr class="project-row" onclick="showDetails('visio_ai')">
+        <td>Visio AI</td>
+        <td>Machine Learning application for dataset visualization and prediction.</td>
+        <td>Python, Streamlit</td>
+    </tr>
+    <tr class="project-row" onclick="showDetails('ai_chatbot')">
+        <td>AI Chatbot System</td>
+        <td>Chatbot application tailored for different user needs and preferences.</td>
+        <td>Python, NLP</td>
+    </tr>
+</table>
+
+<div id="visio_ai" class="project-details">
+    <h3>Visio AI</h3>
+    <p><strong>Description:</strong> A machine learning application that allows users to visualize datasets, manage missing data, and predict outcomes using various algorithms.</p>
+    <p><strong>Language Used:</strong> Python, Streamlit, scikit-learn</p>
+</div>
+
+<div id="ai_chatbot" class="project-details">
+    <h3>AI Chatbot System</h3>
+    <p><strong>Description:</strong> A chatbot system offering different types of chatbots for specific topics, from lifestyle to technical support.</p>
+    <p><strong>Language Used:</strong> Python, Natural Language Processing (NLP)</p>
+</div>
+
+<script>
+    function showDetails(projectId) {
+        // Hide all project details
+        var details = document.querySelectorAll('.project-details');
+        details.forEach(function(detail) {
+            detail.style.display = 'none';
+        });
+        
+        // Show the selected project details
+        document.getElementById(projectId).style.display = 'block';
+    }
+</script>
+
+</body>
+</html>
+
 
 
 <!--# 👋 Hi, I’m Arshvir 👻
