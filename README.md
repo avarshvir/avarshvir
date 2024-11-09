@@ -33,9 +33,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avarshvir&" alt="avarshvir" /></p>
 -->
 <hr>
-# My Projects
-
-## Project Overview
+<h3 align="left">Top Pojects and Repo:</h3>
 
 | **Project**              | **Description**                                        |
 |--------------------------|--------------------------------------------------------|
@@ -49,7 +47,7 @@
 | **Python**               | My Python Journey from basics to advance such as fundamentals, Numpy, Pandas, MatplotLib, Open-CV, Sci-kit Learn, streamlit, SQLite and Networking.|
 | **DSA**                  | Data Structure and Algorithms implementation using C, C++, Java, and Python.|
 | **Machine Learning**     | My Machine Learning Journey.|
-
+<hr>
 
 
 
