@@ -47,15 +47,15 @@
 | **Project**              | **Description**                                        |
 |--------------------------|--------------------------------------------------------|
 | **Visio AI**             | Machine learning and AI-powered project for predictive, descriptive and visualization. |
-| **Dev Link**    | A Software for Developers and Users with wide range of interactive tools.     |
-<!--| **Pharma A+**    | Pharmacy Management System based on RBAC model. |
-| **Arduino Radar System**    | Ulra Sonic Radar System using arduino, electronics and sensors. |
-| **AI VIRSA**    | AI Personal Assistant – An intelligent, multifunctional system for seamless task execution. |
-| **C++**    | My C++ Journey from basics to advance such as fundamentals, OOPs, STL, Database, Networking, DSA, and basic graphics |
-| **Java**    | My Java Journey from basics to advance such as fundamentals, OOPs, Database, Swings, AWT, DSA, networking, and basic springboot |
-| **Python*    | My Python Journey from basics to advance such as fundamentals, Numpy, Pandas, MatplotLib, Open-CV, Sci-kit Learn, streamlit, SQLite and Networking.|
-| **DSA*    | Data Structure and Algorithms implementation using C, C++, Java, and Python.|
-| **Machine Learning Journey*    | My Machine Learning Journey.|-->
+| **Dev Link**             | A Software for Developers and Users with wide range of interactive tools.     |
+| **Pharma A+**            | Pharmacy Management System based on RBAC model. |
+| **Arduino Radar System** | Ulra Sonic Radar System using arduino, electronics and sensors. |
+| **AI VIRSA**             | AI Personal Assistant – An intelligent, multifunctional system for seamless task execution. |
+| **C++**                  | My C++ Journey from basics to advance such as fundamentals, OOPs, STL, Database, Networking, DSA, and basic graphics |
+| **Java**                 | My Java Journey from basics to advance such as fundamentals, OOPs, Database, Swings, AWT, DSA, networking, and basic springboot |
+| **Python**               | My Python Journey from basics to advance such as fundamentals, Numpy, Pandas, MatplotLib, Open-CV, Sci-kit Learn, streamlit, SQLite and Networking.|
+| **DSA**                  | Data Structure and Algorithms implementation using C, C++, Java, and Python.|
+| **Machine Learning**     | My Machine Learning Journey.|-->
 
 
 
