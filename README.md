@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arshvir</h1>
-<h3>A passionate Programmer, Developer, Engineer and YouTuber</h3>
+<h3>Programmer | Developer | Engineer | YouTuber</h3>
 
 
 <!--<p align="left"> <a href="https://twitter.com/arshvir3972" target="blank"><img src="https://img.shields.io/twitter/follow/arshvir3972?logo=twitter&style=for-the-badge" alt="arshvir3972" /></a> </p>-->
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, AI and Robotics**
 
-- 🔭 I’m currently working on **Visio AI**
+- 🔭 C | C++ | Java | Python
 
 - 👨‍💻 All of my projects are available at [https://avarshvir.github.io/arshvir](https://avarshvir.github.io/arshvir)
 
