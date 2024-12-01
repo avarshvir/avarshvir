@@ -58,9 +58,9 @@
 | **[AI VIRSA](https://github.com/avarshvir/AI-VIRSA)**             | AI Personal Assistant – An intelligent, multifunctional system for seamless task execution. |
 | **[C++ Calculator](https://github.com/avarshvir/Scientific_Calculator)**  | C++ based Scientific Calculator. |                              
 <hr>
-<h3 align="left">My Journey:</h3>
+<h3 align="left">My Tech Journey:</h3>
 
-| **Project**                         | **Description**                                        | 
+| **Technology**                         | **Description**                                        | 
 |-------------------------------------|--------------------------------------------------------|
 | **[C++](https://github.com/avarshvir/cpp_programming_language)**                  | C++ Journey from basics to advance such as fundamentals, OOPs, STL, Database, Networking, DSA, and basic graphics. |
 | **[Java](https://github.com/avarshvir/Java)**                 | Java Journey from basics to advance such as fundamentals, OOPs, Database, Swings, Networking, and basic Spring Boot. |
@@ -69,6 +69,16 @@
 | **[ML](https://github.com/avarshvir/Machine_Learning_Journey)**     | My Machine Learning Journey. |
 
 <hr>
+
+<!---<h3 align="left">My Internships and Trainings:</h3>
+
+| **Project**                         | **Description**                                        | 
+|-------------------------------------|--------------------------------------------------------|
+| **[C++](https://github.com/avarshvir/cpp_programming_language)**                  | C++ Journey from basics to advance such as fundamentals, OOPs, STL, Database, Networking, DSA, and basic graphics. |
+| **[Java](https://github.com/avarshvir/Java)**                 | Java Journey from basics to advance such as fundamentals, OOPs, Database, Swings, Networking, and basic Spring Boot. |
+| **[Python](https://github.com/avarshvir/Python-Learning-Journey)**               | Python Journey from basics to advance such as fundamentals, Numpy, Pandas, Matplotlib, OpenCV, Scikit Learn, Streamlit. |
+| **[DSA](https://github.com/avarshvir/data_structure_and_algorithms)**                  | Data Structures and Algorithms implementation using C, C++, Java, and Python. |
+| **[ML](https://github.com/avarshvir/Machine_Learning_Journey)**     | My Machine Learning Journey. |--->
 
 
 
