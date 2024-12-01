@@ -49,22 +49,26 @@
 <hr>
 <h3 align="left">Top Pojects and Repo:</h3>
 
-| **Project**              | **Description**                                        |
+| **Project**              | **Description**                                        | 
 |--------------------------|--------------------------------------------------------|
-| **Visio AI**             | Machine learning and AI-powered project for predictive, descriptive and visualization. |
-| **Dev Link**             | A Software for Developers and Users with wide range of interactive tools.     |
-| **Pharma A+**            | Pharmacy Management System based on RBAC model. |
-| **Arduino Radar System** | Ulra Sonic Radar System using arduino, electronics and sensors. |
-| **AI VIRSA**             | AI Personal Assistant – An intelligent, multifunctional system for seamless task execution. |
-| **C++**                  | My C++ Journey from basics to advance such as fundamentals, OOPs, STL, Database, Networking, DSA, and basic graphics |
-| **Java**                 | My Java Journey from basics to advance such as fundamentals, OOPs, Database, Swings, AWT, DSA, networking, and basic springboot |
-| **Python**               | My Python Journey from basics to advance such as fundamentals, Numpy, Pandas, MatplotLib, Open-CV, Sci-kit Learn, streamlit, SQLite and Networking.|
-| **DSA**                  | Data Structure and Algorithms implementation using C, C++, Java, and Python.|
-| **Machine Learning**     | My Machine Learning Journey.|
+| **[Visio AI](https://github.com/avarshvir/Visio_AI)**             | Machine learning and AI-powered project for predictive, descriptive and visualization. |
+| **[Dev Link](https://github.com/avarshvir/Dev-Link-Software-for-Developers-and-Users)**                                                      | A Software for Developers and Users with wide range of interactive tools.     |
+| **[Pharma A+](https://github.com/avarshvir/Pharma_A)**            | Pharmacy Management System based on RBAC model. |
+| **[Arduino Radar System](#)** | Ulra Sonic Radar System using arduino, electronics and sensors. |
+| **[AI VIRSA](https://github.com/avarshvir/AI-VIRSA)**             | AI Personal Assistant – An intelligent, multifunctional system for seamless task execution. |
+| **[C++ Calculator](https://github.com/avarshvir/Scientific_Calculator)**  | C++ based Scientific Calculator. |                              
 <hr>
+<h3 align="left">My Journey:</h3>
 
-
-
+| **Project**                         | **Description**                                        | 
+|-------------------------------------|--------------------------------------------------------|
+| **[C++](https://github.com/avarshvir/cpp_programming_language)**                  | My C++ Journey from basics to advance such as fundamentals, OOPs, STL, Database, Networking, DSA, and basic graphics. |
+| **[Java](https://github.com/avarshvir/Java)**                 | My Java Journey from basics to advance such as fundamentals, OOPs, Database, Swings, AWT, DSA, Networking, and basic Spring Boot. |
+| **[Python](https://github.com/avarshvir/Python-Learning-Journey)**               | My Python Journey from basics to advance such as fundamentals, Numpy, Pandas, Matplotlib, OpenCV, Scikit Learn, Streamlit, SQLite, and Networking. |
+| **[DSA](https://github.com/avarshvir/data_structure_and_algorithms)**                  | Data Structures and Algorithms implementation using C, C++, Java, and Python. |
+| **[ML](https://github.com/avarshvir/Machine_Learning_Journey)**     | My Machine Learning Journey. |
+| **[CV]()** | My Computer Vision Journey. |
+<hr>
 
 
 
