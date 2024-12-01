@@ -62,12 +62,12 @@
 
 | **Project**                         | **Description**                                        | 
 |-------------------------------------|--------------------------------------------------------|
-| **[C++](https://github.com/avarshvir/cpp_programming_language)**                  | My C++ Journey from basics to advance such as fundamentals, OOPs, STL, Database, Networking, DSA, and basic graphics. |
-| **[Java](https://github.com/avarshvir/Java)**                 | My Java Journey from basics to advance such as fundamentals, OOPs, Database, Swings, AWT, DSA, Networking, and basic Spring Boot. |
-| **[Python](https://github.com/avarshvir/Python-Learning-Journey)**               | My Python Journey from basics to advance such as fundamentals, Numpy, Pandas, Matplotlib, OpenCV, Scikit Learn, Streamlit, SQLite, and Networking. |
+| **[C++](https://github.com/avarshvir/cpp_programming_language)**                  | C++ Journey from basics to advance such as fundamentals, OOPs, STL, Database, Networking, DSA, and basic graphics. |
+| **[Java](https://github.com/avarshvir/Java)**                 | Java Journey from basics to advance such as fundamentals, OOPs, Database, Swings, Networking, and basic Spring Boot. |
+| **[Python](https://github.com/avarshvir/Python-Learning-Journey)**               | Python Journey from basics to advance such as fundamentals, Numpy, Pandas, Matplotlib, OpenCV, Scikit Learn, Streamlit. |
 | **[DSA](https://github.com/avarshvir/data_structure_and_algorithms)**                  | Data Structures and Algorithms implementation using C, C++, Java, and Python. |
 | **[ML](https://github.com/avarshvir/Machine_Learning_Journey)**     | My Machine Learning Journey. |
-| **[CV]()** | My Computer Vision Journey. |
+
 <hr>
 
 
