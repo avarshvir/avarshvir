@@ -7,8 +7,8 @@
 
 - 🎓 Pursuing **B.Tech (CSE)** at **Sardar Beant Singh State University** 🏫
 - 🌱 Currently learning **Machine Learning, AI, and Robotics**
-- 💡 Passionate about **C | C++ | Java | Python**
-- 🛠️ Skilled in **Embedded Systems | Electronics | Arduino | Raspberry Pi | ARM | Embedded C**
+- 💡 Skilled in **C | C++ | Java | Python**
+- 🛠️ Exploring in **Embedded Systems | Electronics | Arduino | Raspberry Pi | ARM | Embedded C**
 - 📂 All my projects are available at [https://avarshvir.github.io/arshvir](https://avarshvir.github.io/arshvir)
 
 ---
