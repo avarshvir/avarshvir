@@ -159,8 +159,8 @@
 
 <!--<p align="center">-->
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=avarshvir&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avarshvir&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avarshvir&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 250px;"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avarshvir&theme=dark" alt="GitHub Streak"style="width: 250px;"  />
 </p>
 
 ---
