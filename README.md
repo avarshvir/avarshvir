@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Arshvir</h1>
-<h3 align="center">💻 Computer Programmer | ⚙️ Engineer | 🎥 YouTuber</h3>
+<h3 align="center">💻 Computer Programmer | 🧠 Machine Learning Engineer | 🎥 YouTuber</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Pursuing **B.Tech (CSE)** at **Sardar Beant Singh State University** 🏫
-- 🌱 Currently learning **Machine Learning, AI, and Robotics**
-- 💡 Skilled in **C | C++ | Java | Python**
+<!--- 🎓 **B.Tech (CSE)** at **Sardar Beant Singh State University** 🏫 --->
+- 🌱 **Machine Learning, AI, and Robotics**
+- 💡 Skilled in **C | C++ | Python**
 - 🛠️ Exploring in **Embedded Systems | Electronics | Arduino | Raspberry Pi | ARM | Embedded C**
 - 📂 All my projects are available at [https://avarshvir.github.io/arshvir](https://avarshvir.github.io/arshvir)
 
@@ -22,13 +22,13 @@
   <a href="https://stackoverflow.com/users/17771039/arshvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://meta.stackoverflow.com/users/17771039/arshvir" height="25" width="40" /></a>
   <a href="https://gitlab.com/arshvir" target="blank">
   <img align="center" src="https://api.iconify.design/logos/gitlab.svg" alt="arshvir" height="25" width="40" /></a>
-  <a href="https://fb.com/arsh.vir.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arsh.vir.73" height="25" width="40" /></a>
+  <!---<a href="https://fb.com/arsh.vir.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arsh.vir.73" height="25" width="40" /></a>
   <a href="https://instagram.com/avarshvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avarshvir" height="25" width="40" /></a>
-  <a href="https://www.youtube.com/@arshvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="av top 10" height="25" width="40" /></a>
+  <a href="https://www.youtube.com/@arshvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="av top 10" height="25" width="40" /></a>--->
 </p>
 
 ---
-
+<!----
 ### 🛠️ Tech Stack
 | **Category**              | **Technologies**                                                                                                                                                                                                                                                                                                                                                   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -39,7 +39,7 @@
 | **Electronics & Embedded**| <img src="https://img.shields.io/badge/Embedded_Systems-00599C?style=flat&logo=embedded-systems&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white" /> <img src="https://img.shields.io/badge/ARM-0091BD?style=flat&logo=arm&logoColor=white" /> <img src="https://img.shields.io/badge/Electronics-000000?style=flat&logo=electronics&logoColor=white" /> <img src="https://img.shields.io/badge/Chip_Programming-000000?style=flat&logo=chip&logoColor=white" />                                                                 |
 | **Web Development**       | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />                                                                 |
 | **Other Tools & Libraries**| <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-000000?style=flat&logo=seaborn&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/GUI-000000?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Proteus-000000?style=flat&logo=proteus&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" /> |
-
+--->
 
 <!---#### **Programming Languages**
 <p align="left">
@@ -122,6 +122,7 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>---->
 
+<!----
 ---
 
 ### 🚀 Top Projects
@@ -135,6 +136,9 @@
 | **[AI VIRSA](https://github.com/avarshvir/AI-VIRSA)**             | AI Personal Assistant – An intelligent, multifunctional system for seamless task execution. |
 | **[C++ Calculator](https://github.com/avarshvir/Scientific_Calculator)**  | C++ based Scientific Calculator. |
 
+--->
+
+<!----
 ---
 
 ### 📚 My Tech Journey
@@ -146,7 +150,9 @@
 | **[Python](https://github.com/avarshvir/Python-Learning-Journey)** | Python Journey from basics to advanced topics like Numpy, Pandas, Matplotlib, OpenCV, Scikit Learn, and Streamlit. |
 | **[DSA](https://github.com/avarshvir/data_structure_and_algorithms)** | Data Structures and Algorithms implementation using C, C++, Java, and Python. |
 | **[ML](https://github.com/avarshvir/Machine_Learning_Journey)** | My Machine Learning Journey. |
+--->
 
+<!----
 ---
 
 ### 🏆 Badges
@@ -154,14 +160,16 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=avarshvir&theme=onedark" alt="GitHub Trophies" />
 </p>
-
+---->
+<!---
 ---
+--->
 
 ### 📈 GitHub Stats
 
 <!--<p align="center">-->
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=avarshvir&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 350px;"  />
+  <!---<img src="https://github-readme-stats.vercel.app/api?username=avarshvir&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 350px;"  />--->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avarshvir&theme=dark" alt="GitHub Streak"style="width: 370px;"  />
 </p>
 
