@@ -10,6 +10,7 @@
 - 💡 Skilled in **C | C++ | Python**
 - 🛠️ Exploring in **Embedded Systems | Electronics | Arduino | Raspberry Pi | ARM | Embedded C**
 - 📂 All my projects are available at [https://avarshvir.github.io/arshvir](https://avarshvir.github.io/arshvir)
+- ❤️‍ Love for Cats, Games, and Anime
 
 ---
 ### 🌐 Connect with Me
