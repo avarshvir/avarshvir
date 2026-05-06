@@ -10,7 +10,7 @@
 - 💡 Skilled in **C | C++ | Python**
 - 🛠️ Exploring in **Embedded Systems | Electronics | Arduino | Raspberry Pi | ARM | Embedded C**
 - 📂 All my projects are available at [https://avarshvir.github.io/arshvir](https://avarshvir.github.io/arshvir)
-- ❤️‍ Love for Cat, Games, and Anime
+<!--- ❤️‍ Love for Cat, Games, and Anime-->
 ---
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshvir-995a91203/) [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?logo=googlechrome&logoColor=white)](https://avarshvir.github.io/arshvir) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F48024?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17771039/arshvir)<br>
