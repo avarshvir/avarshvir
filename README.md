@@ -30,7 +30,7 @@
 ![SmartGit](https://img.shields.io/badge/SmartGit-239120?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)<br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white) ![CLI](https://img.shields.io/badge/Command_Line-4D4D4D?style=for-the-badge&logo=itemn&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-4D4D4D?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white) ![CLI](https://img.shields.io/badge/Command_Line-4D4D4D?style=for-the-badge&logo=itemn&logoColor=white)
 
 <!---<p align="left">
   <a href="https://dev.to/arshvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arshvir" height="25" width="40" /></a>
