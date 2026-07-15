@@ -41,12 +41,21 @@
 ---
 
 ### 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=avarshvir&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api?username=avarshvir&theme=default&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=avarshvir&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=avarshvir&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=avarshvir&theme=default&hide_border=false" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.shion.dev/api?username=avarshvir&theme=default&hide_border=false&include_all_commits=true&count_private=false"
+    alt="GitHub Stats"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=avarshvir&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+    alt="Top Languages"
+  />
+</p>
 
 
 
