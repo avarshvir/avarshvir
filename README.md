@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Arshvir</h1>
-<h3 align="center">Computer Programmer | Machine Learning Engineer</h3>
+<h3 align="center">AI, Software Development, Electronics & Quantum Computing</h3>
 
 ---
 
