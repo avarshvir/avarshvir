@@ -41,8 +41,13 @@
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white) ![CLI](https://img.shields.io/badge/Command_Line-4D4D4D?style=for-the-badge&logo=itemn&logoColor=white)
 
 ----------->
+---
 
+### Project
 
+| Project Name | Description                         | Link                          | Tag                 |
+| ------------ | ----------------------------------- | ----------------------------- |-------------------- |
+| My Project   | A brief description of the project. | [GitHub](https://github.com/) |AI, ML               |
 
 
 ---
