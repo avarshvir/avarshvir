@@ -43,7 +43,7 @@
 ----------->
 ---
 
-### Project
+### Project <3
 
 | Project Name | Description                         | Link                          | Tag                 |
 | ------------ | ----------------------------------- | ----------------------------- |-------------------- |
@@ -55,8 +55,8 @@
 | PPE Vision   | PPE Object Detection System. | [GitHub](https://github.com/avarshvir/PPE_Object_Detection_System) |Object Detection, Computer Vision|
 | NLP Lab      | NLP Intelligent Lab. | [GitHub](https://github.com/avarshvir/nlp_intelligent_lab) |NLP, AI, ML, Transformers|
 | Fission AI   | Multimodal AI platform. | [GitHub](https://github.com/avarshvir/fission_ai) |Text-to-Video, Text-to-Image, Text-to-Text, Multimodal|
-| Project Taste| A brief description of the project. | [GitHub](https://github.com/) |AI, ML               |
-| gita-py      | A brief description of the project. | [GitHub](https://github.com/) |AI, ML               |
+| Project Taste| 150+ Open-Source Developers Tool. | [GitHub](https://avarshvir.github.io/project-taste/) |Developer Tools, Open-Source|
+| gita-py      | gita-py python library for Bhagavad Gita. | [Pypi](https://pypi.org/project/gita-py/) |Python Library, Gita|
 
 
 ---
