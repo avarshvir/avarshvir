@@ -50,11 +50,11 @@
 | Visio AI     | Data Science & ML Platform.         | [Live](http://visio-ai.streamlit.app) |AI, ML, Data Science |
 | FABX         | AI Powered Reverse Engineering Tool. | [GitHub](https://github.com/avarshvir/FABX) |AI, ML, Reverse Engineering|
 | Turing AI OS | AI Powered Operating System built on top of Linux. | [Website](https://turing-aios.vercel.app) |AI, OS, Linux, KDE|
-| NGIBS        | Next Generation Intelligent Browsing System. | [GitHub](https://github.com/avarshvir/NGIBS) |AI, ML, Browser, Research|
-| DocsMind     | Chat with your documents in conversational way. | [GitHub](https://github.com/avarshvir/DocsMind) |AI, RAG, Ollama|
-| PPE Vision   | PPE Object Detection System. | [GitHub](https://github.com/avarshvir/PPE_Object_Detection_System) |Object Detection, CV|
-| NLP Lab      | A brief description of the project. | [GitHub](https://github.com/) |AI, ML               |
-| Fission AI   | A brief description of the project. | [GitHub](https://github.com/) |AI, ML               |
+| NGIBS        | Next Generation Intelligent Browsing System. | [GitHub](https://github.com/avarshvir/NGIBS) |AI, ML, Browser, Research, Agentic AI|
+| DocsMind     | Chat with your documents in conversational way. | [GitHub](https://github.com/avarshvir/DocsMind) |AI, RAG, Ollama, Langchain|
+| PPE Vision   | PPE Object Detection System. | [GitHub](https://github.com/avarshvir/PPE_Object_Detection_System) |Object Detection, Computer Vision|
+| NLP Lab      | NLP Intelligent Lab. | [GitHub](https://github.com/avarshvir/nlp_intelligent_lab) |NLP, AI, ML, Transformers|
+| Fission AI   | Multimodal AI platform. | [GitHub](https://github.com/avarshvir/fission_ai) |Text-to-Video, Text-to-Image, Text-to-Text, Multimodal|
 | Project Taste| A brief description of the project. | [GitHub](https://github.com/) |AI, ML               |
 | gita-py      | A brief description of the project. | [GitHub](https://github.com/) |AI, ML               |
 
