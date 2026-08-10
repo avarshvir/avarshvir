@@ -51,8 +51,8 @@
 | FABX         | AI Powered Reverse Engineering Tool. | [GitHub](https://github.com/avarshvir/FABX) |AI, ML, Reverse Engineering|
 | Turing AI OS | AI Powered Operating System built on top of Linux. | [Website](https://turing-aios.vercel.app) |AI, OS, Linux, KDE|
 | NGIBS        | Next Generation Intelligent Browsing System. | [GitHub](https://github.com/avarshvir/NGIBS) |AI, ML, Browser, Research|
-| DocsMind     | A brief description of the project. | [GitHub](https://github.com/) |AI, ML               |
-| PPE Vision   | A brief description of the project. | [GitHub](https://github.com/) |AI, ML               |
+| DocsMind     | Chat with your documents in conversational way. | [GitHub](https://github.com/avarshvir/DocsMind) |AI, RAG, Ollama|
+| PPE Vision   | PPE Object Detection System. | [GitHub](https://github.com/avarshvir/PPE_Object_Detection_System) |Object Detection, CV|
 | NLP Lab      | A brief description of the project. | [GitHub](https://github.com/) |AI, ML               |
 | Fission AI   | A brief description of the project. | [GitHub](https://github.com/) |AI, ML               |
 | Project Taste| A brief description of the project. | [GitHub](https://github.com/) |AI, ML               |
