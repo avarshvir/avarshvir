@@ -47,7 +47,16 @@
 
 | Project Name | Description                         | Link                          | Tag                 |
 | ------------ | ----------------------------------- | ----------------------------- |-------------------- |
-| My Project   | A brief description of the project. | [GitHub](https://github.com/) |AI, ML               |
+| Visio AI     | Data Science & ML Platform.         | [Live](http://visio-ai.streamlit.app) |AI, ML, Data Science |
+| FABX         | AI Powered Reverse Engineering Tool. | [GitHub](https://github.com/avarshvir/FABX) |AI, ML, Reverse Engineering|
+| Turing AI OS | AI Powered Operating System built on top of Linux. | [Website](https://turing-aios.vercel.app) |AI, OS, Linux, KDE|
+| NGIBS        | A brief description of the project. | [GitHub](https://github.com/) |AI, ML               |
+| DocsMind     | A brief description of the project. | [GitHub](https://github.com/) |AI, ML               |
+| PPE Vision   | A brief description of the project. | [GitHub](https://github.com/) |AI, ML               |
+| NLP Lab      | A brief description of the project. | [GitHub](https://github.com/) |AI, ML               |
+| Fission AI   | A brief description of the project. | [GitHub](https://github.com/) |AI, ML               |
+| Project Taste| A brief description of the project. | [GitHub](https://github.com/) |AI, ML               |
+| gita-py      | A brief description of the project. | [GitHub](https://github.com/) |AI, ML               |
 
 
 ---
