@@ -49,7 +49,7 @@
 | ------------ | ----------------------------------- | ----------------------------- |-------------------- |
 | Visio AI     | Data Science & ML Platform.         | [Live](http://visio-ai.streamlit.app) |AI, ML, Data Science |
 | FABX         | AI Powered Reverse Engineering Tool. | [GitHub](https://github.com/avarshvir/FABX) |AI, ML, Reverse Engineering|
-| Turing AI OS | AI Powered Operating System built on top of Linux. | [Website](https://turing-aios.vercel.app) |AI, OS, Linux, KDE|
+| Turing AI OS | AN Experimental AI Powered Operating System built on top of Linux. | [Website](https://turing-aios.vercel.app) |AI, OS, Linux, KDE|
 | NGIBS        | Next Generation Intelligent Browsing System. | [GitHub](https://github.com/avarshvir/NGIBS) |AI, ML, Browser, Research, Agentic AI|
 | DocsMind     | Chat with your documents in conversational way. | [GitHub](https://github.com/avarshvir/DocsMind) |AI, RAG, Ollama, Langchain|
 | PPE Vision   | PPE Object Detection System. | [GitHub](https://github.com/avarshvir/PPE_Object_Detection_System) |Object Detection, Computer Vision|
