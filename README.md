@@ -52,6 +52,7 @@
 | Turing AI OS | An Experimental AI Powered Operating System built on top of Linux. | [Website](https://turing-aios.vercel.app) |AI, OS, Linux, KDE|
 | NGIBS        | Next Generation Intelligent Browsing System. | [GitHub](https://github.com/avarshvir/NGIBS) |AI, ML, Browser, Research, Agentic AI|
 | DocsMind     | Chat with your documents in conversational way. | [GitHub](https://github.com/avarshvir/DocsMind) |AI, RAG, Ollama, Langchain|
+| NanoOCR      | OCR model built from scratch. | [GitHub](https://github.com/avarshvir/NanoOCR) |OCR, Computer Vision, PyTorch|
 | PPE Vision   | PPE Object Detection System. | [GitHub](https://github.com/avarshvir/PPE_Object_Detection_System) |Object Detection, Computer Vision|
 | NLP Lab      | NLP Intelligent Lab. | [GitHub](https://github.com/avarshvir/nlp_intelligent_lab) |NLP, AI, ML, Transformers|
 | Fission AI   | Multimodal AI platform. | [GitHub](https://github.com/avarshvir/fission_ai) |Text-to-Video, Text-to-Image, Text-to-Text, Multimodal|
