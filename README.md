@@ -50,6 +50,7 @@
 | Visio AI     | Data Science & ML Platform.         | [Live](http://visio-ai.streamlit.app) |AI, ML, Data Science |
 | FABX         | AI Powered Reverse Engineering Tool. | [GitHub](https://github.com/avarshvir/FABX) |AI, ML, Reverse Engineering|
 | Turing AI OS | An Experimental AI Powered Operating System built on top of Linux. | [Website](https://turing-aios.vercel.app) |AI, OS, Linux, KDE|
+| Oxygen       | Multi-Agentic AI framework that runs like a tiny Software Company. | [GitHub](https://github.com/avarshvir/oxygen) | Agentic AI, Gemini API |
 | NGIBS        | Next Generation Intelligent Browsing System. | [GitHub](https://github.com/avarshvir/NGIBS) |AI, ML, Browser, Research, Agentic AI|
 | DocsMind     | Chat with your documents in conversational way. | [GitHub](https://github.com/avarshvir/DocsMind) |AI, RAG, Ollama, Langchain|
 | NanoOCR      | OCR model built from scratch. | [GitHub](https://github.com/avarshvir/NanoOCR) |OCR, Computer Vision, PyTorch|
