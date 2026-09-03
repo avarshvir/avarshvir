@@ -11,7 +11,7 @@
 - 💡 Skilled in **C | C++ | Python**
 - 🛠️ Currently exploring **Embedded Systems | Quantum Computing |ARM**
 - 📂 All my projects are available at [https://avarshvir.github.io/arshvir](https://avarshvir.github.io/arshvir)
-- 🩷 Love for Cats, Games, and Anime--->
+- 🩷 Love for Cats, Games, and Anime---->
 ---
 ## 🌐 Socials:
 
