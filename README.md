@@ -6,7 +6,7 @@
 ### About Me
 ⌘ Machine Learning Engineer | Computer Programmer<br>✦ Computer Vision ◦ NLP ◦ AGI ◦ Embedded System<br>𓃠 Loves for Cats, Games, and Anime <3
 
-<!--- 🎓 **B.Tech (CSE)** at **Sardar Beant Singh State University** 🏫
+<!--- 🎓 **B.Tech (CSE)** at **Sardar Beant Singh State Univer** 🏫
 - 🌱 **Machine Learning, AI, and Robotics**
 - 💡 Skilled in **C | C++ | Python**
 - 🛠️ Currently exploring **Embedded Systems | Quantum Computing |ARM**
