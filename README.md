@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Arshvir </h1>
+<h1 align="center">👋 Hi, I'm Arshvir</h1>
 <h3 align="center">AI, Software Development, Electronics & Quantum Computing</h3>
 
 ---
